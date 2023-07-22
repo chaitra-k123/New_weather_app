@@ -11,10 +11,11 @@ These packages are:
 1) npm install @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons
 
 #Get your API Keys
-To get weather data we need to use API to fetch data & for that i have used Open Weather Map API. Its free to use & highly accurate data.
+To get weather data!
+ we need to use API to fetch data & for that i have used Open Weather Map API. Its free to use & highly accurate data.
 To get your keys, simply sign up into Open Weather & then confirm your email account & after this you will get Your API key. Your API Key will be sent to to mail & also you can find your key into dashboard in the same website.
 Now, finally you got your API Key then include that key into your app by creating new file apiKeys.js & add your key with API domain.
-
+![image](https://github.com/chaitra-k123/New_weather_app/assets/52915210/a3696d7a-9257-464e-920a-cc062391c89e)
 Once the user enter a city name and view the current weather details of the city, which includes:
    - Current temperature
    - Minimum and maximum temperature
